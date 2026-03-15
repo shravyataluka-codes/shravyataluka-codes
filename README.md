@@ -1,58 +1,51 @@
-# Shravya
+# Shravya Taluka 
 
-Backend Engineer in Training | Java 21 | Spring Boot | DSA
+CS undergrad from Hyderabad, currently in my second year.
 
-Computer Science student working on backend engineering fundamentals, clean architecture, and practical systems.
+Working through Java backend development, data structures,
+database internals, and operating systems — in parallel,
+because they keep connecting to each other.
 
-Building skills in:
-- Data Structures & Algorithms
-- DBMS, OS, Computer Networks
-- Java internals & JVM
-- Spring Boot & REST API design
-- Secure auth & database design
+---
 
-## Featured Backend Project
+## What's here
 
-### AcadMate — Academic Management REST API
+**[acadmate](https://github.com/shravyataluka-codes/acadmate)**
 
-Spring Boot backend for managing subjects, chapters, resources, and study progress. Practice project for API design and backend patterns.
+Spring Boot REST API for academic management.  
+JWT authentication, MySQL.
 
-**Tech Stack**
-- Java 21 (LTS)
-- Spring Boot 3.x
-- Spring Security
-- JWT Authentication
-- MySQL
-- JPA / Hibernate
-- Maven
-- HikariCP
+**[java-systems-and-algorithms](https://github.com/shravyataluka-codes/java-systems-and-algorithms)**
 
-**Implemented Concepts**
-- JWT authentication
-- BCrypt password hashing
-- Layered architecture: Controller → Service → Repository
-- DTO pattern
-- User data isolation
-- REST API principles
-- HikariCP connection pooling
+Data structures and algorithms in Java.  
+Each implementation has unit tests and complexity analysis.  
+Currently working through arrays and hashing.
 
-**Architecture**  
-Controller → Service → Repository → Database  
-JWT Filter in Spring Security chain
+**[java-database-engineering](https://github.com/shravyataluka-codes/java-database-engineering)**
 
-## Current Focus
+JDBC, SQL, and database interactions in Java.
 
-- DSA pattern recognition
-- Spring Security flow
-- Database indexing and optimization
-- Transaction management
-- Clean, testable code
+**[Java-Operating-Systems-Engineering](https://github.com/shravyataluka-codes/Java-Operating-Systems-Engineering)**
 
-## Repository Structure
+OS fundamentals and small concurrency experiments.
 
-Backend projects, DSA implementations, core CS notes, and backend experiments.
+**[AI-Systems-Engineering](https://github.com/shravyataluka-codes/AI-Systems-Engineering)**
 
-## Long-Term Goal
+Notes and experiments while learning about AI infrastructure.
 
-Become a solid Java Backend Engineer who can design scalable, secure systems.
+**[skill-tracker](https://github.com/shravyataluka-codes/skill-tracker)**
 
+A study tracker I built for myself.  
+HTML, CSS, JavaScript.
+
+---
+
+## What I'm currently trying to understand
+
+- How the JVM handles memory during algorithm execution
+- What MySQL does at the query execution level
+- The difference between a thread and a process below Java's abstraction
+
+---
+
+[LinkedIn](https://linkedin.com/in/shravya-taluka-860290352)
