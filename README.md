@@ -1,12 +1,12 @@
 # Shravya Taluka 
 
-CS undergrad from Hyderabad, currently in my second year.
 
-Working through Java backend development, data structures,
-database internals, and operating systems — in parallel,
-because they keep connecting to each other.
 
----
+Second-year CS undergraduate from Hyderabad.
+
+Current focus:
+
+Java backend fundamentals — data structures, system utilities, and database / OS behavior in backend systems.
 
 ## What's here
 
@@ -20,6 +20,10 @@ JWT authentication, MySQL.
 Data structures and algorithms in Java.  
 Each implementation has unit tests and complexity analysis.  
 Currently working through arrays and hashing.
+
+**[java-system-tools](https://github.com/shravyataluka-codes/java-system-tools)**
+
+Small cli tools built in java.
 
 **[java-database-engineering](https://github.com/shravyataluka-codes/java-database-engineering)**
 
