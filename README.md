@@ -47,6 +47,12 @@ Built with HTML, CSS, and JavaScript.
 
 ---
 
+**[TravelGenius](https://github.com/shravyataluka-codes/TravelGenius)**  
+Smart itinerary generator and travel planner.  
+Integrates OSM routing algorithms and third-party APIs via FastAPI.
+
+---
+
 ## Current Focus
 
 - Java backend development (Spring Boot, APIs, system design)
