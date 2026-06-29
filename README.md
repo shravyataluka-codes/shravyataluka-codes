@@ -38,6 +38,12 @@
 
 ---
 
+## DSA & Problem Solving
+
+Practicing algorithmic thinking and competitive programming on **[LeetCode](https://leetcode.com/u/shrvyataluk_07/)** — solving problems with focus on both efficiency and system-level understanding.
+
+---
+
 ## Writing
 
 I write about the systems I build and the thinking behind architectural decisions. Each article connects engineering to deeper understanding.
@@ -68,4 +74,4 @@ Currently participating in **GirlScript Summer of Code (GSSoC) 2026**.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/shravya-taluka-860290352) · shrvyataluka20@gmail.com · [Medium](https://medium.com/@shrvyataluka20)
+[LinkedIn](https://linkedin.com/in/shravya-taluka-860290352) · [LeetCode](https://leetcode.com/u/shrvyataluk_07/) · shrvyataluka20@gmail.com · [Medium](https://medium.com/@shrvyataluka20)
